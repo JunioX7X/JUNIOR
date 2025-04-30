@@ -1,6 +1,6 @@
 <h1 align="center">
   :::Junior Ramirrez:::<br/>
-  BACK-END Developer
+  Programmer in MLOPS
 </h1>
 
 ### -----------------------Currently learning:

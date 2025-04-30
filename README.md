@@ -1,6 +1,6 @@
 <h1 align="center">
   :::Junior Ramirrez:::<br/>
-  FRONT-END Developer
+  BACK-END Developer
 </h1>
 
 ### -----------------------Currently learning:
